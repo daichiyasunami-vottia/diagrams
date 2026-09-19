@@ -1,4 +1,0 @@
-{
-  "installDependencies": false,
-  "startCommand": "npx --yes serve -s . -l 8080"
-}
